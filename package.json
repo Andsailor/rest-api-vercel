@@ -1,0 +1,14 @@
+{
+  "name": "rest-api-versel",
+  "version": "1.0.0",
+  "description": "REST API for pet projects",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node api/server.js"
+  },
+  "author": "Andsailor",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
